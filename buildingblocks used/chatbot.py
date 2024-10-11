@@ -3,7 +3,7 @@ import requests
 import json
 
 # Configuration
-API_KEY = "a3acda2a38d948e6b324f20bd3154e0e"  # Replace with your actual API key
+API_KEY = "a3acda2a38d948e6b324f20bd3154e0e7"  # Replace with your actual API key
 ENDPOINT = "https://readinessreporter.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-15-preview"
 
 headers = {
